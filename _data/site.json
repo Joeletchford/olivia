@@ -1,9 +1,9 @@
 {
   "title": "I love you",
-  "url": "https://myurl.com/",
+  "url": "",
   "description": "This is an 11ty Starter Template with Tachyons in place for styling.",
-  "googleID": "xxxxxxxxxxxxxxx",
-  "repo": "http://github.com/whaleen/11ty-tachyons",
+  "googleID": "",
+  "repo": "https://github.com/Joeletchford/olivia/",
   "feed": {
     "subtitle": "This is an 11ty Starter Template with Tachyons in place for styling.",
     "filename": "feed.xml",
