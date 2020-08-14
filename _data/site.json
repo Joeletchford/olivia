@@ -1,4 +1,21 @@
-
+{
+  "title": "I love you",
+  "url": "https://joeletchford.github.io/olivia/",
+  "description": "This is an 11ty Starter Template with Tachyons in place for styling.",
+  "googleID": "",
+  "repo": "https://github.com/Joeletchford/olivia/",
+  "feed": {
+    "subtitle": "This is an 11ty Starter Template with Tachyons in place for styling.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://myurl.com/"
+  },
+  "author": {
+    "name": "Joshua Vaage",
+    "email": "jvaage@protonmail.com",
+    "avatar": "/images/avatar.jpg"
+  }
+}
 {
   "title": "11ty + Tachyons",
   "url": "https://myurl.com/",
