@@ -7,10 +7,9 @@
 	<meta name="author" content='{{ site.author.name }}'>
    <meta name="description" content="{{ site.description }}">
    <meta name="viewport" content="width=device-width, initial-scale=1">
-   <link rel="stylesheet" href="{{ '/css/tachyons.css' | url }}">
-	  <link rel="stylesheet" href="/css/css.css">
+   <link rel="stylesheet" type="text/css" href="{{ site.url | append: site.baseurl }}{{ '/css/tachyons.css' | url }}">
+	  <link rel="stylesheet" type="text/css" href="{{ site.url | append: site.baseurl }}/css/css.css">
  	<link rel="stylesheet" href="{{ '/assets/css/sticky-footer.css' | url }}">
-
 
 	  <!-- Styles -->
 	  <!-- <link rel="stylesheet" href="https://unpkg.com/tachyons@{{ site.tv }}/css/tachyons.min.css"/>
